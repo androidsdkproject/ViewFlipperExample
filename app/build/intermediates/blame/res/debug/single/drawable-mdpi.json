@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Kamal\\ViewFlipperExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\Kamal\\ViewFlipperExample\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Sample\\ViewFlipperExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\Sample\\ViewFlipperExample\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\Kamal\\ViewFlipperExample\\app\\build\\intermediates\\res\\merged\\debug\\anim\\left_in.xml",
+        "source": "D:\\Kamal\\ViewFlipperExample\\app\\src\\main\\res\\anim\\left_in.xml"
+    },
+    {
+        "merged": "D:\\Sample\\ViewFlipperExample\\app\\build\\intermediates\\res\\merged\\debug\\anim\\left_in.xml",
+        "source": "D:\\Sample\\ViewFlipperExample\\app\\src\\main\\res\\anim\\left_in.xml"
+    },
+    {
+        "merged": "D:\\Kamal\\ViewFlipperExample\\app\\build\\intermediates\\res\\merged\\debug\\anim\\right_in.xml",
+        "source": "D:\\Kamal\\ViewFlipperExample\\app\\src\\main\\res\\anim\\right_in.xml"
+    },
+    {
+        "merged": "D:\\Kamal\\ViewFlipperExample\\app\\build\\intermediates\\res\\merged\\debug\\anim\\left_out.xml",
+        "source": "D:\\Kamal\\ViewFlipperExample\\app\\src\\main\\res\\anim\\left_out.xml"
+    },
+    {
+        "merged": "D:\\Sample\\ViewFlipperExample\\app\\build\\intermediates\\res\\merged\\debug\\anim\\left_out.xml",
+        "source": "D:\\Sample\\ViewFlipperExample\\app\\src\\main\\res\\anim\\left_out.xml"
+    },
+    {
+        "merged": "D:\\Kamal\\ViewFlipperExample\\app\\build\\intermediates\\res\\merged\\debug\\anim\\right_out.xml",
+        "source": "D:\\Kamal\\ViewFlipperExample\\app\\src\\main\\res\\anim\\right_out.xml"
+    },
+    {
+        "merged": "D:\\Sample\\ViewFlipperExample\\app\\build\\intermediates\\res\\merged\\debug\\anim\\right_in.xml",
+        "source": "D:\\Sample\\ViewFlipperExample\\app\\src\\main\\res\\anim\\right_in.xml"
+    },
+    {
+        "merged": "D:\\Sample\\ViewFlipperExample\\app\\build\\intermediates\\res\\merged\\debug\\anim\\right_out.xml",
+        "source": "D:\\Sample\\ViewFlipperExample\\app\\src\\main\\res\\anim\\right_out.xml"
+    }
+]

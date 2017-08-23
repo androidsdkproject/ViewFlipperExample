@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\Sample\\ViewFlipperExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\color_baloons.jpg",
+        "source": "D:\\Sample\\ViewFlipperExample\\app\\src\\main\\res\\drawable\\color_baloons.jpg"
+    },
+    {
+        "merged": "D:\\Sample\\ViewFlipperExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\swipe_right.png",
+        "source": "D:\\Sample\\ViewFlipperExample\\app\\src\\main\\res\\drawable\\swipe_right.png"
+    },
+    {
+        "merged": "D:\\Kamal\\ViewFlipperExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\swipe_left.png",
+        "source": "D:\\Kamal\\ViewFlipperExample\\app\\src\\main\\res\\drawable\\swipe_left.png"
+    },
+    {
+        "merged": "D:\\Kamal\\ViewFlipperExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\swipe_right.png",
+        "source": "D:\\Kamal\\ViewFlipperExample\\app\\src\\main\\res\\drawable\\swipe_right.png"
+    },
+    {
+        "merged": "D:\\Sample\\ViewFlipperExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lightning.jpg",
+        "source": "D:\\Sample\\ViewFlipperExample\\app\\src\\main\\res\\drawable\\lightning.jpg"
+    },
+    {
+        "merged": "D:\\Sample\\ViewFlipperExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\swipe_left.png",
+        "source": "D:\\Sample\\ViewFlipperExample\\app\\src\\main\\res\\drawable\\swipe_left.png"
+    },
+    {
+        "merged": "D:\\Kamal\\ViewFlipperExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\natural_wall.jpg",
+        "source": "D:\\Kamal\\ViewFlipperExample\\app\\src\\main\\res\\drawable\\natural_wall.jpg"
+    },
+    {
+        "merged": "D:\\Sample\\ViewFlipperExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\natural_wall.jpg",
+        "source": "D:\\Sample\\ViewFlipperExample\\app\\src\\main\\res\\drawable\\natural_wall.jpg"
+    },
+    {
+        "merged": "D:\\Kamal\\ViewFlipperExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lightning.jpg",
+        "source": "D:\\Kamal\\ViewFlipperExample\\app\\src\\main\\res\\drawable\\lightning.jpg"
+    },
+    {
+        "merged": "D:\\Kamal\\ViewFlipperExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\color_baloons.jpg",
+        "source": "D:\\Kamal\\ViewFlipperExample\\app\\src\\main\\res\\drawable\\color_baloons.jpg"
+    }
+]
